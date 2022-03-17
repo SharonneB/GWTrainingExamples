@@ -1,0 +1,13 @@
+Git local
+
+git init
+git status
+git add .
+git commit -m "some comment
+git log
+
+
+Github; Below 3 commands are pushed to git local suppository- Do it only once
+git remote add origin https://github.com/SharonneB/GWTrainingExamples.git- Do it only once
+git branch -M main
+git push -u origin main
